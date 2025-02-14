@@ -8,5 +8,8 @@ public class string {
             System.out.println(i);
         }*/
         System.out.println(message + " " + message1);
+        String y = "20";
+        int x = 20;
+        System.out.println(x + y);
     }
 }
